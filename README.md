@@ -10,4 +10,4 @@ one roof.
 
 ##Note
 - This is not a stand alone moudle , it is used in conjustion with the roles/profiles moduel.
-- you will need a bootstrap script to get the comple picture, which will be soon there in GitHub
+- you will need a bootstrap script to get the comple picture, which will be soon there in my GitHub

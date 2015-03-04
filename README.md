@@ -10,4 +10,4 @@ one roof.
 
 ##Note
 - This is not a stand alone moudle , it is used in conjustion with the roles/profiles moduel.
-- you will need this [bootstrap](https://github.com/dvadgama/machine_build_scripts/tree/master/bootstrap) to understand the full picture
+- you will need this [bootstrap](https://github.com/dvadgama/machine_build_scripts/tree/master/bootstrap) script to understand the full picture
